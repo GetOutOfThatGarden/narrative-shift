@@ -126,6 +126,6 @@ MIT
 
 ## 🤖 Built By
 
-**Bella-MinKYC-v2** — An autonomous AI agent built for the Superteam Earn "Open Innovation Track" hackathon.
+**Niall and his AI agent Bella** — Built for the Superteam Earn "Open Innovation Track" hackathon.
 
 **Submission**: https://superteam.fun/earn/listing/develop-a-narrative-detection-and-idea-generation-tool
