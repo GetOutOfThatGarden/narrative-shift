@@ -1,0 +1,19 @@
+[package]
+name = "narrative_shift"
+version = "0.1.0"
+description = "NarrativeShift - On-chain narrative detection and storage"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "narrative_shift"
+
+[features]
+default = []
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+
+[dependencies]
+anchor-lang = "0.29.0"
