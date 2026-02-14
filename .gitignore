@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+.env
+narrative-data.json
+subscriptions.json
+narrative-shift-keypair.json
+.DS_Store
