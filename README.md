@@ -4,9 +4,9 @@
 
 NarrativeShift is a CLI tool that monitors social media for signals of user migration between platforms (Discord → Telegram, Twitter → Bluesky, etc.) and quantifies the "exodus narrative" in real-time. Perfect for traders looking for alpha on platform-native tokens.
 
-## 🎯 Real-World Example
+## 🎯 Use Case Example
 
-When Discord announced stricter biometric KYC requirements (February 2026), users flooded to Twitter expressing intent to migrate. NarrativeShift detected this exodus narrative early, quantifying the migration sentiment before TON (Telegram's token) price movements.
+Consider when Discord announced stricter biometric KYC requirements (February 2026). Users flooded to Twitter expressing intent to migrate to alternatives like Telegram. A tool like NarrativeShift could detect this exodus narrative early, quantifying migration sentiment before price movements in platform-native tokens (e.g., TON for Telegram).
 
 ## ✨ Features
 
